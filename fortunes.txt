@@ -18,3 +18,8 @@ Tweets with more nouns and adjectives are less likely to go viral.
 Tweets between 71-140 characters get the most retweets.
 Tweet earlier in the day.
 Tweet as many times as possible, but only one link per day to maximize traffic to the target.
+Don't tweet or retweet old news.
+Limit use of Twitter-specific syntax.
+Don't tweet about what you're eating.
+Provide context to links and news.
+Avoid negative sentiment.
